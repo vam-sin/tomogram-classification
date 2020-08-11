@@ -1,0 +1,46 @@
+##### Data #####
+Train: 450
+Test: 50 
+For each of the 10 classes. 
+Epochs: 20 (SqueezeNet)
+Epochs: 10 (DenseNet 121)
+
+tag: noisy: before denoising. 
+
+##### Results SNR003 #####
+
+SqueezeNet 3D Convolution Model:
+lr = 1e-4
+file: squeezenet_noisy_003.h5
+Accuracy: 72.2%
+
+DenseNet 121 3D Convolution Model:
+lr = 1e-4
+file: densenet_noisy_003.h5
+Accuracy: 
+
+##### Results SNR005 #####
+
+SqueezeNet 3D Convolution Model:
+lr = 1e-4
+file: squeezenet_noisy_005.h5
+Accuracy: 76%
+
+DenseNet 121 3D Convolution Model:
+lr = 1e-4
+file: densenet_noisy_005.h5
+Accuracy: 
+
+##### Results SNRinfinity #####
+
+SqueezeNet 3D Convolution Model:
+lr = 1e-4
+file: squeezenet_noisy_inf.h5
+Accuracy: 79.2%
+
+DenseNet 121 3D Convolution Model:
+lr = 1e-4
+file: densenet_noisy_inf.h5
+Accuracy: 
+
+
