@@ -28,7 +28,7 @@ python3 unet_train.py
 The best results belonged to the SqueezeNet, they've been outlined below:
 
 | SNR      | 0.003 | 0.005 | Infinity | 
-| ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | 
 | SqueezeNet   | 72.20%         | 76.00%         | 79.20% |
 
 # Paper
