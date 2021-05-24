@@ -24,3 +24,25 @@ python3 squeezenet_train.py
 python3 mobilenetv2_train.py
 python3 unet_train.py
 ```
+
+# Paper
+
+If you found anything in this repository useful, please consider citing the following paper.
+
+```
+@INPROCEEDINGS {9313185,
+author = {S. Liu and Y. Ma and X. Ban and X. Zeng and V. Nallapareddy and A. Chaudhari and M. Xu},
+booktitle = {2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+title = {Efficient Cryo-Electron Tomogram Simulation of Macromolecular Crowding with Application to SARS-CoV-2},
+year = {2020},
+volume = {},
+issn = {},
+pages = {80-87},
+keywords = {proteins;viruses (medical);covid-19;tomography;three-dimensional displays;data models;pandemics},
+doi = {10.1109/BIBM49941.2020.9313185},
+url = {https://doi.ieeecomputersociety.org/10.1109/BIBM49941.2020.9313185},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {dec}
+}
+```
